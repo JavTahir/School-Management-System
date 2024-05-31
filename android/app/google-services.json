@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220477463248",
+    "project_id": "sms-system-67624",
+    "storage_bucket": "sms-system-67624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220477463248:android:24742d000341f8c3dcdcd5",
+        "android_client_info": {
+          "package_name": "com.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
