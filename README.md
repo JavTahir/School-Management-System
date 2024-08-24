@@ -1,9 +1,5 @@
 # School Management System
 
-## Project Overview
-
-This project involves creating a mobile application for a School Management System using React Native and Firebase. The system will support three types of users: Admin, Teacher, and Student, each with different functionalities.
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -18,6 +14,12 @@ This project involves creating a mobile application for a School Management Syst
 - [Contributors](#contributors)
 - [Submission Guidelines](#submission-guidelines)
 - [Contact](#contact)
+
+  
+
+## Project Overview
+
+This project involves creating a mobile application for a School Management System using React Native and Firebase. The system will support three types of users: Admin, Teacher, and Student, each with different functionalities.
 
 ## Technologies Used
 
